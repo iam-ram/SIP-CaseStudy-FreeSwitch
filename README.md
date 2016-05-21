@@ -5,9 +5,9 @@ To study the performance of FreeSwitch in Cloud by benchmarking
 the maximum registration rate it can handle as a SIP proxy 
 
 server.
-#SIPperformance#SIPp#SoakTest
+##FreeSwitch#SIPperformance#SIPp#SoakTest
 
-Host Configuration
+#Host Configuration
 
 Server: Amazon AWS T2.Micro Instance
 Server: Amazon AWS T2.Small Instance
@@ -19,7 +19,7 @@ Memory: 1GiB
 Disk:8GB
 Kernel Version:3.13.0-74-generic
 
-Install FreeSwitch in CentOS
+#Install FreeSwitch in CentOS
 
 rpm -ivh http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
 
