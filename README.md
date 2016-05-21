@@ -34,4 +34,7 @@ cd freeswitch
 
 make;make install
 
-Files
+#Files
+register.xml && invite.xml - Scenario files custom made to run from SIPp against the FreeSwitch Proxy Server
+
+user.csv - CSV files used to inject along with the scenario files, includes the list of unregistered users 
