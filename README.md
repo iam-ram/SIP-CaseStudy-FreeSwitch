@@ -9,15 +9,9 @@ server.
 
 #Host Configuration
 
-Server: Amazon AWS T2.Micro Instance
-Server: Amazon AWS T2.Small Instance
-Server: Amazon AWS T2. Medium Instance
-Server: Amazon AWS T2.
+Server: Amazon AWS [t2.micro, t2.small, t2.medium, t2.large]
+
 Operating system: Centos
-Processor: Intel Xeon Processors 3.3 GHZ
-Memory: 1GiB
-Disk:8GB
-Kernel Version:3.13.0-74-generic
 
 #Install FreeSwitch in CentOS
 
