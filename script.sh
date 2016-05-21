@@ -1,0 +1,1 @@
+./sipp -i 10.200.0.240 -sf register.xml -inf user.csv 10.200.0.134:5060 -r 595 -rp 1000 -nr
